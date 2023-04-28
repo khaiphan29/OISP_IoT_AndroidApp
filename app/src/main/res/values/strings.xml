@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OISP IoT</string>
+    <string name="button_label_state_off">off</string>
+    <string name="button_label_state_on">on</string>
+    <string name="button_label_state_auto">auto</string>
+    <string name="connection_state_connecting">connecting</string>
+    <string name="connection_state_connected">connected</string>
+    <string name="connection_state_disconnected">disconnected</string>
+    <string name="aio_light_topic">nutnhan1</string>
+    <string name="aio_fan_topic">nutnhan2</string>
+    <string name="aio_auto_topic">nutnhan3</string>
+    <string name="aio_button_on_state">1</string>
+    <string name="aio_button_off_state">0</string>
+</resources>
