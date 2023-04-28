@@ -4,6 +4,7 @@ This Andorid app is the second part of my IoT Project in my school OISP. This ap
 The first part of this project can be seen in this [Github repo](https://github.com/khaiphan29/OISP_UART-Gateway)
 
 ## User Interface (UI)
+![UI](readme_img/UI.jpg)
 The UI of this application is only compatible with Samsung A8+ (or any devices that have the same screen dimension) since I use Linear Layout to design.
 
 The design is based on those Dribble UI designs:
